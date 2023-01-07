@@ -10,10 +10,10 @@ Student of applied computer science, junior frontend developer from Poland
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=miloszwierucki&show_icons=true&include_all_commits=true&hide=stars,prs&text_color=768390&title_color=adbac7&theme=transparent&hide_border=true#gh-dark-mode-only" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=miloszwierucki&show_icons=true&include_all_commits=true&hide=stars,prs&text_bold=false&text_color=768390&title_color=adbac7&theme=transparent&hide_border=true#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=miloszwierucki&show_icons=true&include_all_commits=true&hide=stars,prs&text_color=57606a&title_color=24292f&theme=transparent&hide_border=true#gh-light-mode-only" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=miloszwierucki&show_icons=true&include_all_commits=true&hide=stars,prs&text_bold=false&text_color=57606a&title_color=24292f&theme=transparent&hide_border=true#gh-light-mode-only" />
 </a>
 
 </br></br></br></br></br></br></br></br>
