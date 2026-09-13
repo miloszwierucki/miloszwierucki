@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Miłosz
-Student of applied computer science, junior frontend developer from Poland
+Student of applied computer science, Full-stack developer from Poland
  
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
